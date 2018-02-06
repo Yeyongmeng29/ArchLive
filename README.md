@@ -22,7 +22,7 @@ xfce 分支 - Xfce
 # 构建
 
 ```
-$ git clone https://github.com/Yeyongmeng29/ArchLive.git
+$ git clone -b xfce https://github.com/Yeyongmeng29/ArchLive.git
 $ cd ArchLive
 # pacman -S archiso
 # mkdir out
