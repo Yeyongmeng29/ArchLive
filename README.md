@@ -3,6 +3,9 @@
 
 > *使用 [Archiso](https://wiki.archlinux.org/index.php/Archiso) 构建*
 
+------
+root 账户默认密码 `archlive`
+
 master 分支 - KDE Plasma
 
 - Firefox
@@ -26,5 +29,6 @@ $ cd ArchLive
 # mkdir out
 # ./build.sh -v
 ```
+脚本将提示设置 root 密码
 
 Archiso 会自动下载所需的软件包等，并在 `out` 生成镜像
