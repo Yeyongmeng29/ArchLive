@@ -3,7 +3,7 @@
 
 > *使用 [Archiso](https://wiki.archlinux.org/index.php/Archiso) 构建*
 
-目前只有 KDE 版（ xfce 版制作中……）
+master 分支 - KDE Plasma
 
 - Firefox
 - Fcitx 框架与搜狗拼音
