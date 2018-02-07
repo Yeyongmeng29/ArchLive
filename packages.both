@@ -77,6 +77,7 @@ firefox
 firefox-i18n-zh-cn
 fcitx
 fcitx-im
+fcitx-rime
 kcm-fcitx
 konsole
 dolphin
@@ -97,5 +98,4 @@ axel
 spectacle
 transmission-qt
 archlinuxcn-keyring
-fcitx-sogoupinyin
 yaourt
