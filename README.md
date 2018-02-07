@@ -9,7 +9,7 @@ root 账户默认密码 `archlive`
 master 分支 - KDE Plasma
 
 - Firefox
-- Fcitx 框架与搜狗拼音
+- Fcitx 框架与 Rime
 - axel：轻量的多线程下载工具
 - yaourt
 - vim 和 gvim
