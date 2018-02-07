@@ -18,7 +18,9 @@ master 分支 - KDE Plasma
 - transmission-qt
 - ……
 
-不定期更新镜像直接下载（比如现在就没更新……）
+不定期更新镜像直接下载
+
+- [Releases](https://github.com/Yeyongmeng29/ArchLive/releases)
 
 # 构建
 
