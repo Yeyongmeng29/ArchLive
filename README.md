@@ -9,7 +9,7 @@ root 账户默认密码 `archlive`
 xfce 分支 - Xfce
 
 - Firefox
-- Fcitx 框架与搜狗拼音
+- Fcitx 框架与 Rime
 - axel：轻量的多线程下载工具
 - gedit
 - vim 和 gvim
