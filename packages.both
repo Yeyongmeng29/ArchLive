@@ -79,6 +79,7 @@ firefox-i18n-zh-cn
 fcitx
 fcitx-im
 fcitx-configtool
+fcitx-rime
 gedit
 gedit-plugins
 gvim
@@ -99,5 +100,4 @@ transmission-gtk
 xfce4-whiskermenu-plugin
 screenfetch
 archlinuxcn-keyring
-fcitx-sogoupinyin
 yaourt
